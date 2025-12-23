@@ -9,12 +9,7 @@ redirect_from:
 
 ## Appointments
 
-> Quotes are cool.
->
-> 
-
-**Important!** Since the data is parsed as JSON *all* of the keys will need to be quoted for the plot to render. The use of a tool like [JSONLint](https://jsonlint.com/) to check syntax is highly recommended.
-{: .notice}
+> Research Scientist, Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany, November 2017 - Present
 
 ## Education
 

@@ -25,9 +25,16 @@ redirect_from:
 
 ## Selected Awards
 
-**Finalist of KUKA Innovation AWard 2024**, Project Yantra (Role: Perception Researcher)
+**Finalist of KUKA Innovation Award 2024**, Project Yantra (Role: Perception Researcher)
 {: .notice}
-**Finalist of KUKA Innovation AWard 2023**, Project SPIRIT (Role: Team Leader)
+**Finalist of KUKA Innovation Award 2023**, Project SPIRIT (Role: Team Leader)
+{: .notice}
+
+## Selected Service
+
+**ICRA 2024 Workshop**, Back to the Future: Robot Learning Going Probabilistic (Role: Lead Organizer)
+{: .notice}
+**IROS 2022 Workshop**, Probabilistic Robotics in the Age of Deep Learning (Role: Lead Organizer)
 {: .notice}
 
 Feel free to reach me out for a complete resume.

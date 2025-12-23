@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 
-**Important!** Since the data is parsed as JSON *all* of the keys will need to be quoted for the plot to render. The use of a tool like [JSONLint](https://jsonlint.com/) to check syntax is highly recommended.
+**Research Scientist** Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany, November 2017 - Present
 {: .notice}
 
 ## Selected Awards

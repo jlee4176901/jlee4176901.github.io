@@ -25,6 +25,8 @@ redirect_from:
 
 ## Selected Awards
 
+**Finalist of Georges Giralt PhD Award 2026**, Top-3 best European thesis on robotics from 2025
+{: .notice}
 **Finalist of KUKA Innovation Award 2024**, Project Yantra (Role: Perception Researcher)
 {: .notice}
 **Finalist of KUKA Innovation Award 2023**, Project SPIRIT (Role: Team Leader)

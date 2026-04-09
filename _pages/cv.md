@@ -39,4 +39,4 @@ redirect_from:
 **IROS 2022 Workshop**, Probabilistic Robotics in the Age of Deep Learning (Role: Lead Organizer)
 {: .notice}
 
-Feel free to reach me out for a complete resume. [bibtex](/files/publications/icml2023.bib){: .btn}
+For additional information, my full CV is available here: [resume](/files/CV/Jongseok-CV.pdf){: .btn}.

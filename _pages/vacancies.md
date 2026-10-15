@@ -4,7 +4,7 @@ title: "Working with Us"
 author_profile: true
 ---
 
-## Vacancies for Ph.D. & Postdoc
+## Open Positions for Ph.D. & Postdoc
 
 The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School of Mechanical and Aerospace Engineering (MAE) at NTU Singapore is actively seeking passionate, self-motivated researchers to join our team. Below are our current open calls.
 

@@ -10,10 +10,10 @@ The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School 
 
 | Position Title | Role | Contact Person | Application Method |
 | :--- | :--- | :--- | :--- |
-| **Probabilistic Deep Learning for Contact-Rich Manipulation** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Active Perception & Decision-Making Under Uncertainty** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Reliable & Safe AI Systems for Industrial Robotics** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Wildcard / Open Proposal in Physical AI & Uncertainties** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty Quantification & Probabilistic Robotics** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Robot Manipulation: Systems Engineering and Applications** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty-aware Robot Perception** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty-aware Robot Action** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
 
 ---
 

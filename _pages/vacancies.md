@@ -22,4 +22,4 @@ Interested candidates are invited to send an email to `jongseok.lee@ntu.edu.sg` 
 * **Projects & Work Samples (Primary Focus):** Links to work you are particularly proud of—such as open-source code repositories (GitHub/GitLab), published or pre-print papers, competition placements, thesis, or personal portfolios. If a project is not publicly hosted, include a brief statement summarizing the work and your explicit individual contribution.
 * **Cover Letter:** A brief 1-2 pages statement of research interest explaining your background and why you are a good fit to the position.
 * **Curriculum Vitae:** Updated CV detailing your education, publication record, key projects, awards, and contact information for 2–3 academic or professional references.
-* **Academic Transcripts:** B.Sc. and M.Sc. transcripts (scans or official copies). If available, please include your official class rank or percentile (e.g., Top 5%, 3rd out of 120).
+* **Academic Transcripts:** B.Sc. and if applicable M.Sc. transcripts (scans or official copies). If available, please include your official class rank or percentile (e.g., Top 5%, 3rd out of 120).

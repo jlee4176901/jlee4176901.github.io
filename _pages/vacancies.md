@@ -28,7 +28,7 @@ Please note that **Incomplete applications will not be considered.** Due to the 
 
 ---
 
-## Visiting Students, Internships & Student Research
+## Visiting Students, Internships & External Master Research
 
 I warmly welcome passionate undergraduate and Master’s students — both local and international — who are eager to gain hands-on research experience in robotics and machine learning.
 

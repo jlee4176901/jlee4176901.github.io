@@ -35,9 +35,8 @@ I warmly welcome undergraduate and Master’s students — both local and intern
 Whether you are seeking a research internship, a visiting position, or an external thesis collaboration, we are always excited to hear from motivated students!
 
 ### How to Get in Touch
-If you would like to join us as an intern or visiting researcher, please send a friendly email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective Student/Intern] Your Name - Institution`. 
+If you would like to join us, please send a friendly email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective Student/Intern] Your Name - Institution`. Please attach:
 
-Please attach:
 * **Cover Letter / Brief Note:** Tell us a bit about yourself, what research areas excite you, and your target start date/duration.
 * **Curriculum Vitae:** Updated CV highlighting your background, skills, and any projects you are proud of.
 * **Academic Transcript:** Recent transcript (scan or unofficial copy).

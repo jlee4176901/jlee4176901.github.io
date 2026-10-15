@@ -24,5 +24,4 @@ Interested candidates are invited to send an email to `jongseok.lee@ntu.edu.sg` 
 * **Curriculum Vitae:** Updated CV detailing your education, publication record, key projects, awards, and contact information for 2–3 academic or professional references.
 * **Academic Transcripts:** B.Sc. and if applicable M.Sc. transcripts (scans or official copies). If available, please include your official class rank or percentile (e.g., Top 5%, 3rd out of 120).
 
-*Please note:*
-> **Incomplete applications will not be considered.** Due to the volume of inquiries, only shortlisted candidates will be contacted for an interview.
+Please note that **Incomplete applications will not be considered.** Due to the volume of inquiries, only shortlisted candidates will be contacted for an interview.

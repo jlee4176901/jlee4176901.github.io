@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Appointments
-**Nanyang Assisant Professor**, School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore, August 2026 - Present
+**Nanyang Assistant Professor**, School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore, August 2026 - Present
 {: .notice}
 **Research Scientist**, Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany, 2017 - 2026
 {: .notice}

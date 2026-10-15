@@ -28,6 +28,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Vacancies"
+    url: /vacancy/
     
   - title: "Contact"
     url: /contact/

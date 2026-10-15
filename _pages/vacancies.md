@@ -17,6 +17,7 @@ The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School 
 | **Physical AI Safety and Trustworthiness** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
 | **Open topic / Speculative Application** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
 
+### How to Get in Touch
 Interested candidates are invited to send an email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective PhD/Postdoc] Your Name - Position Title`. Please attach the following materials:
 
 * **Projects & Work Samples (Primary Focus):** Links to work you are particularly proud of—such as open-source code repositories (GitHub/GitLab), published or pre-print papers, competition placements, thesis, or personal portfolios. If a project is not publicly hosted, include a brief statement summarizing the work and your explicit individual contribution.

@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 ## Appointments
-
-**Research Scientist**, Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany, November 2017 - Present
+**Nanyang Assisant Professor**, School of Mechanical and Aerospace Engineering, Nanyang Technological University (NTU), Singapore, August 2026 - Present
+{: .notice}
+**Research Scientist**, Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany, 2017 - 2026
 {: .notice}
 **Engineering Intern**, ROBOTIS, South Korea, 2014 - 2015
 {: .notice}
@@ -25,15 +26,17 @@ redirect_from:
 
 ## Selected Awards
 
-**Finalist of Georges Giralt PhD Award 2026**, Top 3 best European PhD theses in robotics (2025 cohort)
+**Georges Giralt PhD Finalist Award 2026**, Top 3 best European PhD theses in robotics (2025 cohort)
 {: .notice}
-**Finalist of KUKA Innovation Award 2024**, Project Yantra (Role: Perception Researcher)
+**KUKA Innovation Finalist Award 2024**, Project Yantra (Role: Perception Researcher)
 {: .notice}
-**Finalist of KUKA Innovation Award 2023**, Project SPIRIT (Role: Team Leader)
+**KUKA Innovation Finalist Award 2023**, Project SPIRIT (Role: Team Leader)
 {: .notice}
 
 ## Selected Service
 
+**Associate Editor**, IEEE Robotics and Automation Letters (RA-L), October 2026 - Present
+{: .notice}
 **ICRA 2024 Workshop**, Back to the Future: Robot Learning Going Probabilistic (Role: Lead Organizer)
 {: .notice}
 **IROS 2022 Workshop**, Probabilistic Robotics in the Age of Deep Learning (Role: Lead Organizer)

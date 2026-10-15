@@ -30,7 +30,7 @@ Please note that **Incomplete applications will not be considered.** Due to the 
 
 ## Visiting Students, Internships & External Master Research
 
-I warmly welcome passionate undergraduate and Master’s students — both local and international — who are eager to gain hands-on research experience in robotics and machine learning.
+I warmly welcome undergraduate and Master’s students — both local and international — who are eager to gain hands-on research experience in robotics and machine learning.
 
 Whether you are seeking a research internship, a visiting position, or an external thesis collaboration, we are always excited to hear from motivated students!
 

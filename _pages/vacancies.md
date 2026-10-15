@@ -38,7 +38,7 @@ Whether you are seeking a research internship, a visiting position, or an extern
 If you would like to join us, please send a friendly email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective Student/Intern] Your Name - Institution`. Please attach:
 
 * **Cover Letter / Brief Note:** Tell us a bit about yourself, what research areas excite you, and your target start date/duration.
-* **Curriculum Vitae:** Updated CV highlighting your background, skills, and any projects you are proud of.
+* **Curriculum Vitae:** A CV highlighting your background, skills, and any projects you are proud of.
 * **Academic Transcript:** Recent transcript (scan or unofficial copy).
 
 > *Note for current NTU students:* If you are an NTU student interested in an FYP, URECA, or Master's dissertation project, please reach out directly via email or follow the standard school allocation procedures.

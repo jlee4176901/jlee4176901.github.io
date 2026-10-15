@@ -4,7 +4,7 @@ title: "Work with Us"
 author_profile: true
 ---
 
-## Vacancies
+## Vacancies for Ph.D. & Postdoc
 
 The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School of Mechanical and Aerospace Engineering (MAE) at NTU Singapore is actively seeking passionate, self-motivated researchers to join our team. Below are our current open calls.
 
@@ -16,8 +16,6 @@ The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School 
 | **Uncertainty-aware Robot Action** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
 
 ---
-
-## How to Apply
 
 Interested candidates are invited to send an email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective PhD/Postdoc] Your Name - Position Title`. 
 

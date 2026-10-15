@@ -6,8 +6,8 @@ author_profile: true
 
 ## Email
 
-Feel free to reach me via email: jongseok.lee@dlr.de.
+Feel free to reach me via email: jongseok.lee@ntu.edu.sg
 
 ## Office
 
-The robotics institute of DLR is located at Oberpfaffenhofen, near Munich.
+My office is located at N3-02C-98 within NTU MAE.

@@ -44,4 +44,4 @@ redirect_from:
 **Frequent reviewer** for all major venues of both robotics and machine learning research
 {: .notice}
 
-For additional information, my full CV is available here: [resume](/files/CV/Jongseok-CV.pdf){: .btn} (note: updated 09-04-2026).
+For additional information, my full CV is available here: [resume](/files/CV/Jongseok-CV-12102026.pdf){: .btn} (note: updated 15-10-2026).

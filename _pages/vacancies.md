@@ -10,12 +10,12 @@ The **RUNES lab** (*"Laboratory for Robots under Uncertainties"*) in the School 
 
 | Position Title | Role | Contact Person | Application Method |
 | :--- | :--- | :--- | :--- |
-| **Uncertainty Quantification & Probabilistic Robotics** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Robot Manipulation: Systems Engineering and Applications** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Uncertainty-aware Robot Perception** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Uncertainty-aware Robot Action** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Physical AI Safety and Trustworthiness** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
-| **Open Topic / Speculative Application** | Ph.D. / Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **NTU-KTH Joint Postdoc Fellowship** [pdf](/files/CallforProspectivePostdoctoralFellows_NTU_KTH.pdf){: .btn} | Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty Quantification & Probabilistic Robotics** [pdf](/files/ProbabilisticRobotics.pdf){: .btn} | RA/Ph.D./ Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Robot Manipulation: Systems Engineering and Applications** [pdf](/files/RobotManipulation.pdf){: .btn} | RA/Ph.D./ Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty-aware Robot Perception** [pdf](/files/UncertaintyawarePerception.pdf){: .btn} | RA/Ph.D./Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Uncertainty-aware Robot Action** [pdf](/files/UncertaintyawareAction.pdf){: .btn} | RA/Ph.D./ Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
+| **Open Topic / Speculative Application** | RA/Ph.D./ Postdoc | [Jongseok Lee](mailto:jongseok.lee@ntu.edu.sg) | Email Application |
 
 ### How to Get in Touch
 Interested candidates are invited to send an email to `jongseok.lee@ntu.edu.sg` with the subject line `[Prospective PhD/Postdoc] Your Name - Position Title`. Please attach the following materials:

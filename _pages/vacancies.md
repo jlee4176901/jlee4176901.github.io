@@ -42,6 +42,6 @@ If you would like to join us, please send a friendly email to `jongseok.lee@ntu.
 * **Curriculum Vitae:** A CV highlighting your background, skills, and projects you are proud of.
 * **Academic Transcript:** Recent transcript (scan or unofficial copy).
 
-> *Note for current NTU students: * If you are an NTU student interested in an FYP, URECA, Master's dissertation or robotics project, please reach out directly via email or follow the standard school allocation procedures.
+> *Note for current NTU students:* If you are an NTU student interested in an FYP, URECA, Master's dissertation or robotics project, please reach out directly via email or follow the standard school allocation procedures.
 
 ---
